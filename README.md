@@ -21,7 +21,7 @@ Soy desarrolladora backend junior, titulada en **Desarrollo de Aplicaciones Mult
 * 🎓 **Formación:** Técnico Superior en DAM (IES Albarregas)
 * 💼 **Perfil:** Desarrolladora Backend Junior
 * 🌱 **Aprendiendo ahora:** Curso de Especialización en **Inteligencia Artificial y Big Data** (IES Albarregas, en curso)
-* 📍 **Ubicación:** Extremadura · Disponible para trabajo híbrido o remoto en España
+* 📍 **Ubicación:** Extremadura presencial o híbrido · Disponible para trabajo remoto en España
 
 ---
 
