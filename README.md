@@ -83,4 +83,4 @@ Habilidades: Pensamiento analítico, trabajo en equipo, metodologías de control
 
 ---
 
-📬 ¿Hablamos? Escríbeme por [![LinkedIn]](https://www.linkedin.com/in/eva-retamar-49224458/) o a evaretamarmu@gmail.com
+📬 ¿Hablamos? Escríbeme por [[LinkedIn]](https://www.linkedin.com/in/eva-retamar-49224458/) o a [evaretamarmu@gmail.com](mailto:evaretamarmu@gmail.com)
