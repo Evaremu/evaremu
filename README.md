@@ -41,7 +41,7 @@ Habilidades: Pensamiento analítico, trabajo en equipo, metodologías de control
 
 ---
 
-### 🚀 Proyectos 
+### 🚀 Proyectos
 <table>
   <tr>
     <th>Proyecto</th>
@@ -50,7 +50,7 @@ Habilidades: Pensamiento analítico, trabajo en equipo, metodologías de control
   </tr>
   <tr>
     <td><b>Eventvs Mérida</b></td>
-    <td>Aplicación móvil de eventos culturales y de ocio. Proyecto de equipo (3 personas): Flutter + API REST con Java/Spring Boot + PostgreSQL/Supabase.<br><br>Mi parte: calendario de eventos, mapa con geolocalización y registro de usuarios, además de endpoints del backend compartidos con el equipo.</td>
+    <td>Aplicación móvil de eventos culturales y de ocio. Proyecto de equipo (3 personas): Flutter + API REST con Java/Spring Boot + PostgreSQL/Supabase.<br><br>Mi parte: mapa con geolocalización, calendario de eventos, registro de usuarios, perfil de organizador, compartir eventos y eventos guardados, además de la documentación del proyecto y el Javadoc del backend.</td>
     <td><a href="https://github.com/Null-Pointers-Devs/EventvsMerida">📂 Repositorio</a></td>
   </tr>
 </table>
