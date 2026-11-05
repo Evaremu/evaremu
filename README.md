@@ -67,4 +67,4 @@ Procedimientos y fichas tÃ©cnicas,DocumentaciÃ³n tÃ©cnica
 
 ---
 
-📬 ¿Hablamos? Escríbeme por LinkedIn o a evaretamarmu@gmail.com
+📬 ¿Hablamos? Escríbeme por [![LinkedIn]](https://www.linkedin.com/in/eva-retamar-49224458/) o a evaretamarmu@gmail.com
