@@ -37,7 +37,7 @@ Web: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=h
 
 Control de versiones: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-* **Habilidades:** Pensamiento analítico, trabajo en equipo, metodologías de control de calidad.
+**Habilidades:** Pensamiento analítico, trabajo en equipo, metodologías de control de calidad.
 
 ---
 
