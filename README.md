@@ -42,28 +42,44 @@ Habilidades: Pensamiento analítico, trabajo en equipo, metodologías de control
 ---
 
 ### 🚀 Proyectos 
-Proyecto,Descripción,Enlaces
-Eventvs MÃ©rida,"AplicaciÃ³n mÃ³vil de eventos culturales y de ocio. Proyecto de equipo (3 personas): Flutter + API REST con Java/Spring Boot + PostgreSQL/Supabase. Mi parte: calendario de eventos, mapa con geolocalizaciÃ³n y registro de usuarios, ademÃ¡s de endpoints del backend compartidos con el equipo.",[ðŸ“‚ Repositorio](https://github.com/Null-Pointers-Albarregas/EventvsMerida)
-<img width="105" height="49" alt="image" src="https://github.com/Null-Pointers-Devs/EventvsMerida" />
-
-
-
-#### [Eventvs Mérida](https://github.com/Null-Pointers-Devs/EventvsMerida)
-Aplicación móvil de eventos culturales y de ocio. Proyecto de equipo (3 personas) en el IES Albarregas.
-
-* **Stack:** Flutter · API REST con Java y Spring Boot · PostgreSQL · Supabase
-* **Mi parte:** calendario de eventos, mapa con geolocalización y registro de usuarios, además de endpoints del backend compartidos con el equipo.
-* **Flujo de trabajo:** rama personal y Pull Requests hacia `develop` con Git y GitHub.
+<table>
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+    <th>Enlace</th>
+  </tr>
+  <tr>
+    <td><b>Eventvs Mérida</b></td>
+    <td>Aplicación móvil de eventos culturales y de ocio. Proyecto de equipo (3 personas): Flutter + API REST con Java/Spring Boot + PostgreSQL/Supabase.<br><br>Mi parte: calendario de eventos, mapa con geolocalización y registro de usuarios, además de endpoints del backend compartidos con el equipo.</td>
+    <td><a href="https://github.com/Null-Pointers-Devs/EventvsMerida">📂 Repositorio</a></td>
+  </tr>
+</table>
 
 ---
 
 ### 🔬 De laboratorio al código
-En el laboratorio,En el desarrollo de software
-Trazabilidad por lote,Registro y auditorÃ­a de datos
-ValidaciÃ³n de mÃ©todos de anÃ¡lisis,Testing y validaciÃ³n
-AnÃ¡lisis de desviaciones y causa raÃ­z,DepuraciÃ³n y resoluciÃ³n de problemas
-Procedimientos y fichas tÃ©cnicas,DocumentaciÃ³n tÃ©cnica
-<img width="105" height="121" alt="image" src="https://github.com/user-attachments/assets/67682b40-db44-42bb-9329-cb1932acbcc2" />
+<table>
+  <tr>
+    <th>En el laboratorio</th>
+    <th>En el desarrollo de software</th>
+  </tr>
+  <tr>
+    <td>Trazabilidad por lote</td>
+    <td>Registro y auditoría de datos</td>
+  </tr>
+  <tr>
+    <td>Validación de métodos de análisis</td>
+    <td>Testing y validación</td>
+  </tr>
+  <tr>
+    <td>Análisis de desviaciones y causa raíz</td>
+    <td>Depuración y resolución de problemas</td>
+  </tr>
+  <tr>
+    <td>Procedimientos y fichas técnicas</td>
+    <td>Documentación técnica</td>
+  </tr>
+</table>
 
 ---
 
