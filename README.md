@@ -42,7 +42,7 @@ Habilidades: Pensamiento analítico, trabajo en equipo, metodologías de control
 ---
 
 ### 🚀 Proyectos 
-Proyecto,DescripciÃ³n,Enlaces
+Proyecto,Descripción,Enlaces
 Eventvs MÃ©rida,"AplicaciÃ³n mÃ³vil de eventos culturales y de ocio. Proyecto de equipo (3 personas): Flutter + API REST con Java/Spring Boot + PostgreSQL/Supabase. Mi parte: calendario de eventos, mapa con geolocalizaciÃ³n y registro de usuarios, ademÃ¡s de endpoints del backend compartidos con el equipo.",[ðŸ“‚ Repositorio](https://github.com/Null-Pointers-Albarregas/EventvsMerida)
 <img width="105" height="49" alt="image" src="https://github.com/Null-Pointers-Devs/EventvsMerida" />
 
